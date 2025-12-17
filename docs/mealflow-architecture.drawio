@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="29.2.7">
+  <diagram name="Page-1" id="xNzD5dlFXAiNjTQRmA7o">
+    <mxGraphModel dx="789" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="light-dark(#FFFFFF,#222831)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VbTEubZPA4TI5epc_7Eu-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="&lt;div&gt;Auth Service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pqkPObRoVQnS2gn_51OG-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="AI Model" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VbTEubZPA4TI5epc_7Eu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="&lt;div&gt;Recipe Service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VbTEubZPA4TI5epc_7Eu-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="&lt;div&gt;Planner Service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pqkPObRoVQnS2gn_51OG-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="&lt;div&gt;MongoDB&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="pqkPObRoVQnS2gn_51OG-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="&lt;div&gt;PostgreSQL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pqkPObRoVQnS2gn_51OG-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="&lt;div&gt;PostgreSQL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pqkPObRoVQnS2gn_51OG-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="Redis" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pqkPObRoVQnS2gn_51OG-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="OpenTelemetry" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="pqkPObRoVQnS2gn_51OG-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="&lt;div&gt;WebHooks&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pqkPObRoVQnS2gn_51OG-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="RabitMQ" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="pqkPObRoVQnS2gn_51OG-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="gRPC" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VbTEubZPA4TI5epc_7Eu-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="&lt;div&gt;List Service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="pqkPObRoVQnS2gn_51OG-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#393E46);strokeColor=none;" value="GraphQL" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

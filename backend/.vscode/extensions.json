@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "humao.rest-client",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "yzhang.markdown-all-in-one",
+    "ms-dotnettools.csdevkit",
+    "timheuer.trxview"
+  ]
+}

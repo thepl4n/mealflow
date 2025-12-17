@@ -1,0 +1,7 @@
+# @identity_host = https://localhost:7142
+@identity_host = http://localhost:5016
+
+###
+GET {{identity_host}}/
+Accept: application/json
+
